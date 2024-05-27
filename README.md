@@ -7,3 +7,5 @@ With that i mean that i have many diffrent repos connected to one singe domain n
 This is going to be accived using c-name records 
 
 This is going to be the www page
+
+This page is licensed under the MIT License
